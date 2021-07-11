@@ -505,6 +505,17 @@ section {
   margin-bottom: 30px;
 }
 
+.portfolio .portfolio-item h4 {
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #050d18;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 35px auto;
